@@ -9,7 +9,7 @@ namespace AzureSubscriptionVendor.Services
 
         public MongoService(string connectionString, string databaseName, string collectionName)
         {
-            var client = new MongoClient(connectionString);
+            var client = new MongoClient("mongodb://localhost:27017/?replicaSet=rs0&serverSelectionTimeoutMS=50000");
             var database = client.GetDatabase(databaseName);
             _collection = database.GetCollection<BsonDocument>(collectionName);
         }
