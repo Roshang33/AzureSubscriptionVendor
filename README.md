@@ -1,1 +1,1 @@
-![AvastBrowser_2lmYVLRadR](https://github.com/user-attachments/assets/cbff63f3-dea1-4eb7-a9b4-db5a5de0c9fd)
+![chrome_W7Jt7xdDZP](https://github.com/user-attachments/assets/04514a28-f5da-4212-b02d-6baa92feaf8a)
